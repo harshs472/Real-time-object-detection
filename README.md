@@ -1,5 +1,5 @@
 # Real-time-object-detection
-Real time object detection that detects approximately 40 objects!!!!
+Real time object detection that detects approximately 80 objects!!!!
 
 This project is a real-time object detection system that uses deep learning models to identify and classify objects in live video streams. It is built using Python and various computer vision and deep learning libraries.
 
